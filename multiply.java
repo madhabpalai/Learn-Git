@@ -4,4 +4,4 @@ public class multiply {
         int b = 15;
         System.out.println("a * b = "+(a*b));
     }
-}
+}mm
